@@ -1,6 +1,6 @@
 # Radio Exploration Experimental Setup: Utilizing Retro Tech Scrap for Experiments
 
-<p align="center"><a href="https://ideacat.ro" target="_blank"><img src=".github/assets/banner.svg" width="100%" alt="Radio Exploration Experimental Setup: Utilizing Retro Tech for Modern Experiments Banner"></a></p>
+<p align="center"><a href="https://ideacat.ro" target="_blank"><img src=".github/assets/banner.png" width="100%" alt="Radio Exploration Experimental Setup: Utilizing Retro Tech for Modern Experiments Banner"></a></p>
 
 ## Description
 
